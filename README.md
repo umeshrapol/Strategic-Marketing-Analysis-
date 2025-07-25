@@ -6,9 +6,8 @@ We explored key demographics, brand perception, preferred ingredients and packag
 
 
 ## 1. Demographic Insights
-<img width="785" height="417" alt="Q1 a" src="https://github.com/user-attachments/assets/561f499d-32f8-4e77-83d8-b370885375d1" />
-
 ### a. Who prefers energy drink more? (male/female/non-binary?)
+<img width="785" height="417" alt="Q1 a" src="https://github.com/user-attachments/assets/561f499d-32f8-4e77-83d8-b370885375d1" />
 
 Our survey results indicate a distinct pattern in energy drink consumption across genders:  
 • Male respondents demonstrate a notably higher engagement with energy drinks, with 6,038 individuals participating in relevant survey responses.  
