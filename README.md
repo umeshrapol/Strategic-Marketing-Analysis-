@@ -98,11 +98,18 @@ This data suggests that energy drinks currently resonate more significantly with
 ## 5. Brand Penetration
 
 ### a. What do people think about our brand? (overall rating)
-<img width="788" height="637" alt="Q5 a" src="https://github.com/user-attachments/assets/c08b3ddd-0d28-4c48-b7b4-d56c2b3564b7" />
+<img width="863" height="581" alt="image" src="https://github.com/user-attachments/assets/2c775538-3b48-4cc6-ab26-a2ba5b341fab" />
 
-• Our analysis of consumer sentiment reveals that the most common perception regarding energy drinks is that they are Effective, cited by 2,909 respondents.  
-• A significant portion of respondents, 2,610, are Not sure about their general perception, indicating a segment that is uncommitted or undecided. Following this, opinions are somewhat divided between Healthy (2,243 mentions) and Dangerous (2,238 mentions), showing a clear split in perception regarding the health aspects of these products.  
-• This suggests that while the functional benefit of energy drinks (effectiveness) is well-recognized, there's a considerable opportunity to educate consumers and shape positive opinions, particularly concerning health and overall understanding.
+
+• Most people view the brand as neutral (5,974 mentions) — neutral responses far outnumber positive (2,257) and negative (1,769).
+
+• Perceived effectiveness is the top general trait (2,909 mentions), so many think the product works.
+
+• But a large group is undecided about the brand’s health impact — “Not sure” (2,610), nearly as big as those saying it’s effective.
+
+• Health vs danger is split (~2,243 healthy vs ~2,238 dangerous), showing mixed beliefs about safety.
+
+• Takeaway: convert the large neutral/unsure segment into positive buyers by boosting clarity on health benefits and targeted reputation-building.
 
 ### b. Which cities do we need to focus more on?
 <img width="935" height="795" alt="Q5 b" src="https://github.com/user-attachments/assets/fdc898a1-4aee-4a5a-8930-1ffc5a948bba" />
