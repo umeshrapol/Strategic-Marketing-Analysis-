@@ -65,10 +65,15 @@ This data suggests that energy drinks currently resonate more significantly with
 
 
 • Brand reputation (2,652 mentions) and taste/flavor (2,011) are the top reasons people choose other brands.
+
 • Availability (1,910) and perceived effectiveness (1,748) also strongly drive competitor preference.
+
 • Among those who haven’t tried our brand, health concerns (1,197) and not interested in energy drinks (1,179) are the biggest barriers.
+
 • Not available locally (1,165) and unfamiliar with the brand (1,030) show distribution and awareness gaps we must fix.
+
 • Quick takeaway: prioritize visibility and distribution (1,165–1,910 range) while addressing health messaging (≈1,200) and taste/reputation (≈2,000–2,650).
+
 
 ---
 
