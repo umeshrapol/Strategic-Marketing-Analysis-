@@ -60,12 +60,15 @@ This data suggests that energy drinks currently resonate more significantly with
 • This clearly defines the key players dominating the current energy drink market.
 
 ### b. What are the primary reasons consumers prefer those brands over ours?
-<img width="1270" height="697" alt="Q3 b code" src="https://github.com/user-attachments/assets/ac742d7b-f0bf-48f3-b0e0-e7b3873ebaa0" />
-<img width="447" height="307" alt="Q3 b output" src="https://github.com/user-attachments/assets/616ece94-1272-4a06-baa0-edbc1bad9f54" />
+<img width="445" height="457" alt="image" src="https://github.com/user-attachments/assets/d2d70a8f-735e-47fb-ad74-1db5cce7d336" />
+<img width="556" height="306" alt="image" src="https://github.com/user-attachments/assets/97631fe7-0a0e-40ec-a737-58c586211438" />
 
-• Our analysis reveals key factors that prevent consumers from trying or preferring certain energy drink brands. The leading concern is Health concerns cited by 1,197 respondents.  
-• Closely following are a general Lack of interest in energy drinks (1,179 mentions) and issues with Not available locally (1,165 mentions). Furthermore, being Unfamiliar with the brand is a significant barrier for 1,030 respondents. Other reasons account for 548 mentions.  
-• This strongly suggests that health perceptions, general category interest, and brand accessibility/awareness are critical hurdles to overcome for brand preference and trial.
+
+• Brand reputation (2,652 mentions) and taste/flavor (2,011) are the top reasons people choose other brands.
+• Availability (1,910) and perceived effectiveness (1,748) also strongly drive competitor preference.
+• Among those who haven’t tried our brand, health concerns (1,197) and not interested in energy drinks (1,179) are the biggest barriers.
+• Not available locally (1,165) and unfamiliar with the brand (1,030) show distribution and awareness gaps we must fix.
+• Quick takeaway: prioritize visibility and distribution (1,165–1,910 range) while addressing health messaging (≈1,200) and taste/reputation (≈2,000–2,650).
 
 ---
 
