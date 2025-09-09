@@ -112,12 +112,22 @@ This data suggests that energy drinks currently resonate more significantly with
 • Takeaway: convert the large neutral/unsure segment into positive buyers by boosting clarity on health benefits and targeted reputation-building.
 
 ### b. Which cities do we need to focus more on?
-<img width="935" height="795" alt="Q5 b" src="https://github.com/user-attachments/assets/fdc898a1-4aee-4a5a-8930-1ffc5a948bba" />
+<img width="827" height="472" alt="image" src="https://github.com/user-attachments/assets/2a2b9b68-00b1-4094-96a9-0e6cb680ed1e" />
+<img width="612" height="567" alt="image" src="https://github.com/user-attachments/assets/3cca0789-629e-4690-ad73-2b4a5ca6d175" />
 
-• Our analysis of consumption frequency reveals the cities where energy drink usage is comparatively lower, indicating areas for strategic focus.  
-• Hyderabad stands out as the city where the highest number of respondents (733 out of 1,833) rarely consume energy drinks. This suggests a significant opportunity for growth and increased penetration. Kolkata (225 out of 566) and Ahmedabad (172 out of 456) also show a relatively high proportion of infrequent consumers.  
-• Conversely, cities like Lucknow (21 out of 175), Jaipur (43 out of 360), and Delhi (78 out of 429) have a lower number of respondents who rarely consume energy drinks, suggesting potentially better existing penetration or different market dynamics.  
-• To drive market growth, efforts should be intensified in cities like Hyderabad, Kolkata, and Ahmedabad to convert infrequent consumers into more regular users.
+
+
+• Mumbai (1,363 not tried) and Pune (866 not tried) stand out with the highest number of people who have never tried energy drinks, showing big untapped potential.
+
+• Bangalore (844 not tried) and Hyderabad (562 not tried) also show large numbers of non-triers, despite being major metros.
+
+• For rare consumption, Hyderabad (733) and Kolkata (225) lead, meaning even among those who tried, many rarely consume.
+
+• Cities like Ahmedabad (289 not tried, 172 rarely consume) and Chennai (270 not tried, 171 rarely consume) show both trial and frequency challenges.
+
+• Smaller cities like Lucknow and Jaipur have lower absolute counts, but still show meaningful opportunity relative to their respondent base.
+
+• Takeaway: Focus marketing and awareness campaigns in Mumbai, Pune, Bangalore, and Hyderabad to convert the large non-trier segment, while also working on Hyderabad and Kolkata to increase frequency among existing users.
 
 ---
 
@@ -138,13 +148,23 @@ This data suggests that energy drinks currently resonate more significantly with
 • This clearly indicates that energy drinks are primarily associated with physical activity and periods requiring sustained focus or alertness.
 
 ### c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
-<img width="782" height="533" alt="Q6 c" src="https://github.com/user-attachments/assets/65827b14-c152-4572-b1bf-38b84ff646fe" />
+<img width="778" height="693" alt="image" src="https://github.com/user-attachments/assets/bb41aae5-e224-4855-8707-17cb94dd26c5" />
 
-• Our analysis concerning the impact of limited edition packaging reveals a nearly even split among respondents:  
-  o 4,023 respondents indicated that limited edition packaging does 'No't influence their decision.  
-  o Almost as many, 3,946 respondents, stated that 'Yes,' it does influence their purchase decisions.  
-  o A notable 2,031 respondents were 'Not Sure' about its influence.  
-• This close division suggests that while limited edition packaging is a significant motivator for a substantial portion of consumers, it is not universally influential. There's a considerable segment for whom it makes no difference, and another sizable group who are undecided. This indicates a nuanced role for such packaging in purchasing behavior.
+
+
+- **Price Range** strongly influences purchase:
+  - Majority prefer the **₹50–99 range (4,288 respondents)**.  
+  - The next popular range is **₹100–150 (3,142 respondents)**, followed by **Above ₹150 (1,561)**.  
+  - Only **1,009 respondents** prefer **Below ₹50**, showing ultra-low price isn’t a key driver.  
+
+- **Limited Edition Packaging** has a mixed but important influence:
+  - **3,946 respondents said Yes** (packaging influences them).  
+  - **4,023 respondents said No**, almost the same share.  
+  - **2,031 respondents are Not Sure**, indicating undecided customers who could be swayed.  
+
+📌 **Takeaway:** Price sensitivity is clear, with most customers clustering around ₹50–150.  
+Limited edition packaging divides the audience — about half find it appealing, while half don’t — so packaging campaigns should be targeted at segments more likely to respond (e.g., youth or trend-conscious buyers).
+
 
 ---
 
